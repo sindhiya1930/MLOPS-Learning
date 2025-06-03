@@ -8,4 +8,9 @@ Functions:
 3. pd.read_csv - to read csv file.
     toString() - print all
 4. pd.read_json - to read json file
-tail, head 
+5. pd.to_datetime
+
+df.tail, head, dropna(inplace=True), fillna(130, inplace=True)
+df.duplicated -> t/F
+df.drop_duplicates
+df.plot
