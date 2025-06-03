@@ -40,23 +40,23 @@
 > print(random.randrange(1, 10))
 
 **Strings**
-double or single
-x[3]
-len(x)
-x in "banana"
-x not in "banana"
-for i in "banana"
-x[2:5](f:l-1), x[:5], x[2:]
-a.upper()
-a.lower()
-a.strip()
-a.replace("H","j")
-a.split(",")
-a+b
-a+""+b
-Create an f-string:
-  age = 36
-  txt = f"My name is John, I am {age}" 
+- double or single
+- x[3]
+- len(x)
+- x in "banana"
+- x not in "banana"
+- for i in "banana"
+- x[2:5](f:l-1), x[:5], x[2:]
+- a.upper()
+- a.lower()
+- a.strip()
+- a.replace("H","j")
+- a.split(",")
+- a+b
+- a+""+b
+- Create an f-string:
+  - age = 36
+  - txt = f"My name is John, I am {age}" 
   
 - List is a collection which is ordered and changeable. Allows duplicate members.
     - insert, append, extend, remove, pop, del
